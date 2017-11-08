@@ -35,8 +35,6 @@
 }
 
 .col-left, .col-center, .col-right {
-  position: relative;
-  left: 20px;
   float: left;
   width: 33.3%;
 }
