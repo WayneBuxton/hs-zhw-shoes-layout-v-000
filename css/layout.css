@@ -30,15 +30,11 @@
 }
 
 .col-2 {
-  position: relative;
-  bottom: 20px;
-  margin: 20px;
   float: right;
-  width: 29%;
+  width: 33%;
 }
 
 .col-left, .col-center, .col-right {
-  margin: 10px;
   float: left;
   width: 30%;
 }
