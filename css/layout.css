@@ -30,6 +30,9 @@
 }
 
 .col-2 {
+  position: absolute;
+  top: 0;
+  right: 0;
   float: right;
   width: 33%;
 }
