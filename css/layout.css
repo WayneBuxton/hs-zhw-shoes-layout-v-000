@@ -30,6 +30,7 @@
 }
 
 .col-2 {
+  display: table-cell;
   float: right;
   width: 33%;
 }
@@ -53,4 +54,3 @@
 .first {
   margin-left: 0%;
 }
-
