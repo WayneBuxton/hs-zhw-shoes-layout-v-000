@@ -35,6 +35,7 @@
   margin: 20px;
   float: right;
   width: 29%;
+  overflow: hidden;
 }
 
 .col-left, .col-center, .col-right {
