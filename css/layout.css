@@ -30,7 +30,7 @@
 }
 
 .col-2 {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   float: right;
