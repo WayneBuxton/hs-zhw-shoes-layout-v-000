@@ -39,7 +39,7 @@
 }
 
 .col-left, .col-center, .col-right {
-  margin: 10px;
+  margin: 20px;
   float: left;
   width: 31.3%;
 }
