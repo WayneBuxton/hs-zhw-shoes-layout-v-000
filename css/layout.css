@@ -30,7 +30,7 @@
 }
 
 .col-2 {
-  display: table-cell;
+  display: table;
   float: right;
   width: 33%;
 }
