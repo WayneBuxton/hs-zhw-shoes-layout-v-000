@@ -24,18 +24,11 @@
 
 /* Posititoning Classes */
 
-.col-1 {
+.col-1, .col-2 {
   float: left;
   width: 66%;
 }
 
-.col-2 {
-  position: relative;
-  bottom: 20px;
-  margin: 20px;
-  float: right;
-  width: 29%;
-}
 
 .col-left, .col-center, .col-right {
   margin: 10px;
