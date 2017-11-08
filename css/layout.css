@@ -32,7 +32,7 @@
 .col-2 {
   position: relative;
   top: 0;
-  right: 0;
+  right: 10px;
   float: right;
   width: 33%;
 }
