@@ -26,17 +26,17 @@
 
 .col-1 {
   float: left;
-  width: 60%;
+  width: 66%;
 }
 
 .col-2 {
   float: right;
-  width: 30%;
+  width: 33%;
 }
 
 .col-left, .col-center, .col-right {
   float: left;
-  width: 25%;
+  width: 33.3%;
 }
 
 
