@@ -3,7 +3,7 @@
 * {
   margin: 10px;
   padding: 0;
-  border: ;
+  border: 0;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -26,12 +26,12 @@
 
 .col-1 {
   float: left;
-  width: 66.333%;
+  width: 66%;
 }
 
 .col-2 {
   float: right;
-  width: 33.333%;
+  width: 33%;
 }
 
 .col-left, .col-center, .col-right {
