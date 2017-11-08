@@ -39,6 +39,7 @@
 }
 
 .col-left, .col-center, .col-right {
+  margin: auto;
   float: left;
   width: 33%;
 }
