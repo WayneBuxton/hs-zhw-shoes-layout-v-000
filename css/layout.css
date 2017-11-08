@@ -38,7 +38,7 @@
   width: 30%;
 }
 
-.col-left, .col-center, .col-right {
+.col-left, .col-center,{
   margin: 10px;
   float: left;
   width: 31%;
@@ -46,6 +46,8 @@
 
 .col-right {
   margin-right: 0%;
+  float: left;
+  width: 31%;
 }
 
 
