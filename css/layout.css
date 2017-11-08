@@ -48,3 +48,7 @@
   height: 0;
   line-height: 0;
 }
+
+section {
+  margin-bottom: 20px
+}
